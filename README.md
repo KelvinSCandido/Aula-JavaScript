@@ -1,2 +1,2 @@
-# Aula-JavaScript
+JavaScript
 Introdução ao JavaScript
